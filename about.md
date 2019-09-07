@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software engineer working in California.
+I love technology, diy and radio-controlled things.
 
-### More Information
+The things that interrest me the most right now:
+* Flutter / dartlang
+* Golang
+* Laser cutter, CNC and 3d printing
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
